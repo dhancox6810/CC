@@ -1,0 +1,106 @@
+.header{
+  position: absolute;
+  width: 100%;
+  height: 46px;
+  left: 0px;
+  background: #F1F9EF;
+}
+.headerText{
+  position: absolute;
+  text-align: center;
+  margin-left: auto;
+  margin-left: auto;
+  width: 100%;
+  top: 18px;
+  text-align: center;
+
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 16px;
+
+  /* identical to box height, or 100% */
+  letter-spacing: -0.02em;
+
+  color: #1A6053;
+}
+.Rectangle1{
+  display: flex;
+  justify-content: center;
+  top: 187px;
+  height: 419px;
+}
+.LetsGoOutside{
+  top: 688px;
+  height: 30px;
+  left: 50%;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  letter-spacing: 0.1em;
+  color: #B7DC16;
+}
+.LetsGoOutsidePara{
+  height: 243px;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 27px;
+  text-align: center;
+  letter-spacing: -0.02em;
+  color: #005249;
+}
+.Rectangle21{
+  position: relative;
+  margin:auto;
+  width:0px;
+  top: -1px;
+}
+.image6{
+  position: relative;
+  margin:auto;
+  width: 958px;
+  top: 100px;
+}
+.image10{
+  position: relative;
+  margin:auto;
+  width: 700px;
+  top: -250px;
+}
+.image11{
+  position: relative;
+  margin:auto;
+  left: 100px;
+  width: 0px;
+  top: -190px;
+}
+.footer{
+  position: absolute;
+  width: 100%;
+  height: 70px;
+  left: 0px;
+  top:2050px;
+  background: #379220;
+}
+
+#video{
+  position:relative;
+  margin:auto;
+  width: 50%;
+  top: 0px;
+}
+.FooterBack{
+  position:absolute;
+  width: 100%;
+  height: 70px;
+  top: 2032px;
+  background: linear-gradient(to bottom, #9ae99a 0%,#6cbb3e 100%);
+}

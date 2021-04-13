@@ -1,0 +1,41 @@
+.FooterItems {
+    position: absolute;
+    left:20%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 14px;
+    letter-spacing: -0.02em;
+    
+    z-index: 1;
+}
+.Footer-menu{
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    grid-gap: 10px;
+    list-style: none;
+    text-align: center;
+    width: 50vw;
+    justify-content: left;
+    margin: right;
+    
+    z-index: 1;
+}
+
+.copyright{
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    letter-spacing: -0.02em;
+    text-align: center;
+    color: #FFFFFF;
+    
+    z-index: 1;
+}
